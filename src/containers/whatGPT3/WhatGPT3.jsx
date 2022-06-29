@@ -17,7 +17,11 @@ const WhatGPT3 = () => (
       <Feature title="Welder" text="We also provide plumber facilities through experienced workers. " />
       <Feature title="Painter" text="We also provide painting facilities through experienced workers. " />
       <Feature title="Carpenter" text="We also provide carpenter facilities through experienced workers. " />
-      <Feature title="Home Appliances Technician" text="We also provide technicians facilities through experienced workers. " />
+      <Feature title="Technical Services" text="We also provide technical services to our customers. " />
+      <Feature title="Sales and Marketing Services" text="Sales and marketing services are also provided to the customers. " />
+      <Feature title="Promotional and Digital support Service" text="This service includes Promotional and Digital marketing services to the customers. " />
+      <Feature title="Training and Development" text="We also provide Training and Development through experienced Developers. " />
+      <Feature title="Local 4 Vocal Services" text="Includes Local for Vocal Services. " />
     </div>
   </div>
 );

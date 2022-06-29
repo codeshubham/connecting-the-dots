@@ -2,7 +2,7 @@ import React from 'react';
 
 import { Footer, Possibility, Features, WhatGPT3, Header } from './containers';
 import { CTA, Navbar } from './components';
-
+import Aboutus from './containers/aboutus/Aboutus.jsx';
 import './App.css';
 
 const App = () => (
@@ -14,6 +14,7 @@ const App = () => (
     {/* <Brand /> */}
     <WhatGPT3 />
     <Features />
+    <Aboutus />
     <Possibility />
     <CTA />
     {/* <Blog /> */}
