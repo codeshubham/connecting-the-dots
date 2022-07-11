@@ -36,6 +36,7 @@ const Footer = () => (
         <p>connectingthedot.s@outlook.com</p>
         <p>085-132567</p>
         <p>Terms and conditions : </p>
+        <p>Sign and send the file to the mentioned email id : </p>
         <a href="https://drive.google.com/file/d/1WrhzchbmQbmjblNULOKwyhMY6NstnO7e/view?usp=sharing">Terms and conditions</a>
       </div>
     </div>

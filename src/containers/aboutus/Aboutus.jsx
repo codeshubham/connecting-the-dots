@@ -5,19 +5,19 @@ import './aboutus.css';
 const featuresData = [
   {
     title: 'Kamlesh Sharma',
-    text: 'provides advice, support and resources to individuals and families to help them solve their problems. She  works with specific groups of individuals, including children, the elderly and families in crisis, and help them to solve the problems they are facing. She has very vast experience in social work and welfare for society. She is the founding owner of Connecting the dots... ',
+    text: 'Kashlesh Sharma provides advice, support and resources to individuals and families to help them solve their problems. She  works with specific groups of individuals, including children, the elderly and families in crisis, and help them to solve the problems they are facing. She has very vast experience in social work and welfare for society. She is the founding owner of Connecting the dots... ',
   },
   {
     title: 'Suresh Sharma',
-    text: 'is a key part of a management team and oversees high-level HR duties, such as attracting talent and setting training standards and hiring procedures. They also analyze and improve organizational processes, and work to improve quality, productivity, and efficiency of the Connecting the dots... ',
+    text: 'Suresh Sharma is a key part of a management team and oversees high-level HR duties, such as attracting talent and setting training standards and hiring procedures. They also analyze and improve organizational processes, and work to improve quality, productivity, and efficiency of the Connecting the dots... ',
   },
   {
     title: 'Pallavi Sood',
-    text: 'is a finance professional who provides consulting and advice about finances. She helps Connecting the dots... to reach their financial goals sooner by providing their strategies and ways to create more wealth, reduce costs, or eliminate debts.',
+    text: 'Pallavi Sood is a finance professional who provides consulting and advice about finances. She helps Connecting the dots... to reach their financial goals sooner by providing their strategies and ways to create more wealth, reduce costs, or eliminate debts.',
   },
   {
     title: 'Sachin Sharma',
-    text: 'is a sales and marketing consultant and responsible for researching and developing marketing opportunities and planning and implementing new sales plans.  He is also manage both the marketing and the sales teams and will perform consulting duties related to marketing and sales to meet the companys operations goals. He is also a founder of Connecting the dots...',
+    text: 'Sachin Sharma is a sales and marketing consultant and responsible for researching and developing marketing opportunities and planning and implementing new sales plans.  He is also manage both the marketing and the sales teams and will perform consulting duties related to marketing and sales to meet the companys operations goals. He is also a founder of Connecting the dots...',
   },
 ];
 

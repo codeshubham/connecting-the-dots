@@ -1,6 +1,6 @@
 import React from 'react';
 // import people from '../../assets/people.png';
-import ai from '../../assets/ai.jpg';
+import ai from '../../assets/ai.jpeg';
 import './header.css';
 
 const Header = () => (
