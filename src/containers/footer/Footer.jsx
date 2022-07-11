@@ -1,6 +1,6 @@
 import React from 'react';
 // import { Document } from 'react-pdf';
-import gpt3Logo from '../../logo.svg';
+import logo from '../../assets/logo.PNG';
 import './footer.css';
 
 const Footer = () => (
@@ -15,7 +15,7 @@ const Footer = () => (
 
     <div className="gpt3__footer-links">
       <div className="gpt3__footer-links_logo">
-        <img src={gpt3Logo} alt="gpt3_logo" />
+        <img className="logo" src={logo} />
         <p>HIMACHAL(INDIA), All Rights Reserved</p>
       </div>
       {/* <div className="gpt3__footer-links_div">
