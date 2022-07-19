@@ -5,11 +5,11 @@ import './features.css';
 const featuresData = [
   {
     title: 'telephone number',
-    text: '1800-891-9769',
+    text: '89881-80808',
   },
   {
     title: 'Contact number',
-    text: '8278808059',
+    text: '89881-80808',
   },
   {
     title: 'Email',

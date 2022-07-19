@@ -13,10 +13,10 @@ const App = () => (
     </div>
     {/* <Brand /> */}
     <WhatGPT3 />
+    <CTA />
     <Features />
     <Aboutus />
     <Possibility />
-    <CTA />
     {/* <Blog /> */}
     <Footer />
   </div>
