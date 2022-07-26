@@ -17,9 +17,9 @@ const Navbar = () => {
           <p><a href="#wgpt3">Services</a></p>
           <p><a href="#possibility">Products</a></p>
           <p><a href="#features">Technical support</a></p>
-          <button type="button" className="gpt3-button">Join Us</button>
+          <button type="button" className="gpt3-button"><a href="https://docs.google.com/forms/d/1pRSXqSTNP7gSMeVemoEAtKkccFWu5QDFJF355Iagpq8/edit">Join Us</a></button>
           &nbsp;
-          <button type="button" className="gpt3-button">Book A Service</button>
+          <button type="button" className="gpt3-button"><a href="tel:89881-80808">Book A Service</a></button>
 
         </div>
       </div>
