@@ -18,15 +18,15 @@ const Navbar = () => {
           <p><a href="#possibility">Products</a></p>
           <p><a href="#features">Technical support</a></p>
           <button type="button" className="gpt3-button"><a href="https://docs.google.com/forms/d/1pRSXqSTNP7gSMeVemoEAtKkccFWu5QDFJF355Iagpq8/edit">Join Us</a></button>
-          &nbsp;
+          &nbsp; &nbsp; &nbsp; &nbsp;
           <button type="button" className="gpt3-button"><a href="tel:89881-80808">Book A Service</a></button>
 
         </div>
       </div>
-      <div className="gpt3__navbar-sign">
-        <p>Sign in</p>
-        <button type="button">Sign up</button>
-      </div>
+      {/* <div className="gpt3__navbar-sign">
+        <p><a href="https://docs.google.com/forms/d/1pRSXqSTNP7gSMeVemoEAtKkccFWu5QDFJF355Iagpq8/edit">Join Us</a></p>
+        <button type="button"><a href="tel:89881-80808">Book A Service</a></button>
+      </div> */}
       <div className="gpt3__navbar-menu">
         {toggleMenu
           ? <RiCloseLine color="#fff" size={27} onClick={() => setToggleMenu(false)} />
@@ -39,10 +39,9 @@ const Navbar = () => {
             <p><a href="#possibility">Products</a></p>
             <p><a href="#features">Technical support</a></p>
           </div>
-          <div className="gpt3__navbar-menu_container-links-sign">
-            <p>Sign in</p>
-            <button type="button">Sign up</button>
-          </div>
+          <button type="button" className="gpt3-button"><a href="https://docs.google.com/forms/d/1pRSXqSTNP7gSMeVemoEAtKkccFWu5QDFJF355Iagpq8/edit">Join Us</a></button>
+          &nbsp;
+          <button type="button" className="gpt3-button2"><a href="tel:89881-80808">Book A Service</a></button>
         </div>
         )}
       </div>

@@ -53,8 +53,8 @@
     cursor: pointer;
 }
 
-.gpt3__navbar-sign button,
-.gpt3__navbar-menu_container button {
+.gpt3__navbar-sign,
+.gpt3__navbar-menu_container {
     padding: 0.5rem 1rem;
     color: #fff;
     background: #FF4820;
@@ -110,6 +110,17 @@
     border: none;
     color: white;
     padding: 5px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+  .gpt3-button2 {
+    background-color: #FF4820; /* Green */
+    border: none;
+    color: white;
+    padding: 5px 5px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
