@@ -1,6 +1,10 @@
 # Modern UI/UX GPT-3
 ### [Live Site](https://gpt3-jsm.com/)
 
+The modern app created is an AI supplychain based E-Commerce Solution.
+
+The following is the phase 1 for the final webapp
+
 ![Modern UI/UX GPT-3](https://i.ibb.co/TR5LW9z/image.png)
 
 ## Stay up to date with new projects
